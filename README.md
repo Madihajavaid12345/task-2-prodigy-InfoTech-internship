@@ -20,9 +20,3 @@ I’m excited to share that I’ve just completed **Task 2** of my Data Science 
 • Passengers traveling alone or with small families faced lower survival odds  
 • Embarkation port and fare indicated socio-economic influences on survival
 
-**🔗 Explore My Work:**  
-GitHub Repository → *your-repo-link-here*
-
-Grateful to **Prodigy InfoTech** for this learning opportunity. Excited to dive into Task 3 next! 🌟
-
-#ProdigyInfoTech #DataScienceInternship #TitanicEDA #DataCleaning #DataVisualization #Python #Seaborn #LearningByDoing
